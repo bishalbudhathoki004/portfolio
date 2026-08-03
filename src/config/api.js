@@ -1,0 +1,1 @@
+export const API_URL = import.meta.env.VITE_FORM_API_URL;
